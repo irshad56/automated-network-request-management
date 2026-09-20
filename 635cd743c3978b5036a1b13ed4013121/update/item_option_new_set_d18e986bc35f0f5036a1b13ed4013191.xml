@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description>User information for network request</description>
+        <display_title>false</display_title>
+        <internal_name>user_information</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 01:49:11</sys_created_on>
+        <sys_id>d18e986bc35f0f5036a1b13ed4013191</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>User Information</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079691_automa_0">635cd743c3978b5036a1b13ed4013121</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">635cd743c3978b5036a1b13ed4013121</sys_scope>
+        <sys_update_name>item_option_new_set_d18e986bc35f0f5036a1b13ed4013191</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-09-19 02:00:14</sys_updated_on>
+        <title>User Information</title>
+        <type>one_to_one</type>
+        <version>8</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

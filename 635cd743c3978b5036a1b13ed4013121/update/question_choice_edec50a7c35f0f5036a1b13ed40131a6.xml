@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Mode of Payment">60bc1027c35f0f5036a1b13ed4013110</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 01:41:35</sys_created_on>
+        <sys_id>edec50a7c35f0f5036a1b13ed40131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UPI</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079691_automa_0">635cd743c3978b5036a1b13ed4013121</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">635cd743c3978b5036a1b13ed4013121</sys_scope>
+        <sys_update_name>question_choice_edec50a7c35f0f5036a1b13ed40131a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 01:41:35</sys_updated_on>
+        <text>UPI</text>
+        <value>upi</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=edec50a7c35f0f5036a1b13ed40131a6"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>edec50a7c35f0f5036a1b13ed40131a6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 01:41:35</sys_created_on>
+        <sys_id>01fcd0a7c35f0f5036a1b13ed4013152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 01:41:35</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>edec50a7c35f0f5036a1b13ed40131a6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 01:41:35</sys_created_on>
+        <sys_id>c5fcd0a7c35f0f5036a1b13ed4013151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 01:41:35</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

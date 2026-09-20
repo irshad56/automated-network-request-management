@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="22356f83c3d78b5036a1b13ed4013183" label="Database Tables" max_length="40" name="x_2079691_automa_0_database_tables" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Mobile Number" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For" max_length="40" name="u_string_9" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Database Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approval Status" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="encode_utf8=false" label="Assignment to" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Mode of Payment" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Amount" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type of Connection" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Address" max_length="40" name="u_string_7" type="string"/>
+        <index name="index">
+            <element name="u_reference_2"/>
+        </index>
+    </element>
+</database>
