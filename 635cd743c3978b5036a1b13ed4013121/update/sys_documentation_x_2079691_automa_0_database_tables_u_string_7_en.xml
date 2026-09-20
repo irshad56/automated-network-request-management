@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_7" label="Customer Address" language="en" table="x_2079691_automa_0_database_tables">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <help/>
+            <hint/>
+            <label>Customer Address</label>
+            <language>en</language>
+            <name>x_2079691_automa_0_database_tables</name>
+            <plural>Customer Address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-18 03:08:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Customer Address</sys_name>
+            <sys_package display_value="Automated Network Request Management" source="x_2079691_automa_0">635cd743c3978b5036a1b13ed4013121</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Automated Network Request Management">635cd743c3978b5036a1b13ed4013121</sys_scope>
+            <sys_update_name>sys_documentation_x_2079691_automa_0_database_tables_u_string_7_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-18 03:08:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

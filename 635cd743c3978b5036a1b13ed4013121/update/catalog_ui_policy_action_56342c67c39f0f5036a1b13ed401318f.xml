@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Network Request">16195c6fc31f0f5036a1b13ed401313e</catalog_item>
+        <catalog_variable>IO:1d2c9427c35f0f5036a1b13ed40131f3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 02:13:46</sys_created_on>
+        <sys_id>56342c67c39f0f5036a1b13ed401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enter_your_existing_id</sys_name>
+        <sys_package display_value="Automated Network Request Management" source="x_2079691_automa_0">635cd743c3978b5036a1b13ed4013121</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automated Network Request Management">635cd743c3978b5036a1b13ed4013121</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_56342c67c39f0f5036a1b13ed401318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 02:13:46</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Existing ID for Existing Connection">0ce3ec27c39f0f5036a1b13ed4013109</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>enter_your_existing_id</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=56342c67c39f0f5036a1b13ed401318f"/>
+</record_update>
